@@ -1,1 +1,1 @@
-# firstOpenCVProject
+# Document Scanning OpenCV
